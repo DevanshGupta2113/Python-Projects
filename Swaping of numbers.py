@@ -1,0 +1,10 @@
+print("HOW TO SWAP THE NUMBERS")
+a= input("enter the first number")
+a=int(a)
+print("a=", a)
+b=input ("enter the second number")
+b=int(b)
+print("b=", b)
+print("new a=", b)
+print("new b=", a)
+
